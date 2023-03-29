@@ -6,7 +6,7 @@ public class Main {
         solar.moon="2";
         solar.planets="2";
 
-        
+        System.out.println("chagne in sun branch");
 
 
 
